@@ -72,3 +72,6 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://firespotting.com/ - HN Clone that is mostly "Show HN" type posts
 * https://www.facebook.com/groups/hackathonhackers - Student group of hackathon participants. Currently 6000 members.
 * https://news.layervault.com/ - Designer News
+
+
+[![Join the chat at https://gitter.im/alumNY/PlacesToPostYourStartup](https://badges.gitter.im/alumNY/PlacesToPostYourStartup.svg)](https://gitter.im/alumNY/PlacesToPostYourStartup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
